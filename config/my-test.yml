@@ -9,3 +9,10 @@ eureka:
     fetch-registry: false
     service-url:
       defaultZone: http://admin:admin123@localhost:8101/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health,info
+data:
+ message: 你好,2020
