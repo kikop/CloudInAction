@@ -1,0 +1,4 @@
+server:
+  port: 8763
+
+foo: foo version proc
