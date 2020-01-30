@@ -1,6 +1,6 @@
 spring:
   application:
-    name: test
+    name: myapp1
 server:
   port: 9999
 eureka:
