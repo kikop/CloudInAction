@@ -1,1 +1,3 @@
 foo: foo version remote
+server:
+  port: 8763
