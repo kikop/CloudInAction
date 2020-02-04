@@ -15,4 +15,4 @@ management:
       exposure:
         include: refresh,health,info
 data:
- message: 你好,20201111111111
+ message: 你好new,20201111111111
